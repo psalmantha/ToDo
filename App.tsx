@@ -172,7 +172,54 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#FFFFFF',
   },
+<<<<<<< HEAD
   topMenu: {
+=======
+  date: {
+    fontSize: 12,
+    fontWeight: 'normal',
+    color: '#545454',
+    position: 'absolute',
+    right: 20,
+    top: 20,
+  },
+  boldDay: {
+    fontWeight: 'bold',
+  },
+  header: {
+    backgroundColor: '#D5E7FF',
+    padding: 40,
+    paddingTop: 60,
+    paddingBottom: 80,
+  },
+  headerText: {
+    fontSize: 28,
+    fontWeight: 'bold',
+    color: '#263263',
+  },
+  subHeaderText: {
+    fontSize: 16,
+    color: '#56618E',
+    marginTop: 5,
+  },
+  body: {
+    flex: 1,
+    backgroundColor: '#fff',
+    borderTopLeftRadius: 50,
+    borderTopRightRadius: 50,
+    padding: 20,
+    marginTop: -50,
+  },
+  bodyText: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    paddingTop: 15,
+    paddingLeft: 20,
+    paddingBottom: 3,
+    color: '#333',
+  },
+  inputField: {
+>>>>>>> 970959c486dcd9292e2c71b3ae2e04a4599bf7ea
     flexDirection: 'row',
     justifyContent: 'space-around',
     paddingTop: 20,
