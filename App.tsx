@@ -149,14 +149,14 @@ const styles = StyleSheet.create({
   },
   date: {
     fontSize: 12,
-    fontWeight: 'normal',  // Normal weight for the whole date except the bold day
+    fontWeight: 'normal',
     color: '#545454',
     position: 'absolute',
     right: 20,
     top: 20,
   },
   boldDay: {
-    fontWeight: 'bold',  // Only the day of the week will be bold
+    fontWeight: 'bold',
   },
   header: {
     backgroundColor: '#D5E7FF',
