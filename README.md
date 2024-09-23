@@ -12,4 +12,4 @@ Visual Studio: Primary development environment.
 Android Studio Emulator: Used for testing and debugging the Android version of the app.
 
 # App Testing Video
-link
+https://drive.google.com/file/d/1pvTyiTQ8thOKHdmevVTv68Y4VtrDhdOb/view?usp=sharing
